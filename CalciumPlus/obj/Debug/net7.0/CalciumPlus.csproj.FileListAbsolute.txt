@@ -1,0 +1,14 @@
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/obj/Debug/net7.0/CalciumPlus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/obj/Debug/net7.0/CalciumPlus.AssemblyInfoInputs.cache
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/obj/Debug/net7.0/CalciumPlus.AssemblyInfo.cs
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/obj/Debug/net7.0/CalciumPlus.csproj.CoreCompileInputs.cache
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/bin/Debug/net7.0/CalciumPlus
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/bin/Debug/net7.0/CalciumPlus.deps.json
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/bin/Debug/net7.0/CalciumPlus.runtimeconfig.json
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/bin/Debug/net7.0/CalciumPlus.dll
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/bin/Debug/net7.0/CalciumPlus.pdb
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/obj/Debug/net7.0/CalciumPlus.dll
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/obj/Debug/net7.0/refint/CalciumPlus.dll
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/obj/Debug/net7.0/CalciumPlus.pdb
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/obj/Debug/net7.0/CalciumPlus.genruntimeconfig.cache
+/Users/unixuser3/Projects/CalciumPlus/CalciumPlus/obj/Debug/net7.0/ref/CalciumPlus.dll
